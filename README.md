@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @shashankkestwal
+<!-- - 👋 Hi, I’m @shashankkestwal
 - 👀 I’m interested in a lot of things.
 - 🌱 I’m currently learning everything I can find.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me
-
+ -->
 # 💫 About Me:
 Final year undergraduate in Delhi university, Acharya Narendra Dev College<br>Interests in web backend development using RoR<br>Learning MERN <br>   
 
