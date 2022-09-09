@@ -5,7 +5,7 @@
 - 📫 How to reach me
  -->
 # 💫 About Me:
-Final year undergraduate in Delhi university, Acharya Narendra Dev College<br>Interests in web backend development using RoR<br>Learning MERN <br>   
+Final year undergraduate in Delhi university, Acharya Narendra Dev College<br>Interests in web backend development and Databases <br>Learning MERN <br>   
 
 
 ## 🌐 Socials:
