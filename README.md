@@ -5,8 +5,7 @@
 - 📫 How to reach me
  -->
 # 💫 About Me:
-Final year undergraduate in Delhi university, Acharya Narendra Dev College<br>Interests in web backend development and Databases <br>Learning MERN <br>   
-
+SOFTWARE DEVELOPER voltup, Building Energy Distribution system.  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shashank_kestwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-kestwal-b51796212/) 
